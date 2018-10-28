@@ -1,0 +1,1 @@
+curl --digest -d @off.xml http://admin:c0cac0la@192.168.178.83:10000/smartplug.cgi -o "output.txt"
